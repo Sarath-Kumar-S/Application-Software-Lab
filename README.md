@@ -10,7 +10,7 @@
  6. Delete all values from the table
  7. Delete the entire table
 
- <b>SOLUTION</b> : [SQL FILE](./Application-Software-Lab/Lab1/Lab1.sql)
+ <b>SOLUTION</b> : [SQL FILE](./Application-software-lab-main/Lab1/Lab1.sql)
 
 <br>
 
@@ -22,8 +22,8 @@
  4. Change the salary of employee code is e1.
  5. Delete a tuple from the table employee
 
- <b>SOLUTION</b> : [SQL FILE](./Application-Software-Lab/Lab2/Lab2.sql) <br>
- <b>WITH O/P</b> : [SQL FILE](./Application-Software-Lab/Lab2/Output.sql)
+ <b>SOLUTION</b> : [SQL FILE](./Application-software-lab-main/Lab2/Lab2.sql) <br>
+ <b>WITH O/P</b> : [SQL FILE](./Application-software-lab-main/Lab2/Output.sql)
 
 
 <br>
@@ -34,8 +34,8 @@
 2.	Display the details of employee table where empid in employdetails table
 3.	Display the details of employee table where empid not in employdetails table
 
-<b>SOLUTION</b> : [SQL FILE](./Application-Software-Lab/Lab3/Lab3.sql) <br>
-<b>WITH O/P</b> : [SQL FILE](./Application-Software-Lab/Lab3/Output.sql) <br>
+<b>SOLUTION</b> : [SQL FILE](./Application-software-lab-main/Lab3/Lab3.sql) <br>
+<b>WITH O/P</b> : [SQL FILE](./Application-software-lab-main/Lab3/Output.sql) <br>
 
 ## Lab 4
 
@@ -51,8 +51,8 @@ Create and insert values for the following tables department and instructor(with
      Code, 
      Id(default)
      
-<b>SOLUTION</b> : [SQL FILE](./Application-Software-Lab/Lab4/Lab4.sql) <br>
-<b>WITH O/P</b> : [SQL FILE](./Application-Software-Lab/Lab4/Output.sql)
+<b>SOLUTION</b> : [SQL FILE](./Application-software-lab-main/Lab4/Lab4.sql) <br>
+<b>WITH O/P</b> : [SQL FILE](./Application-software-lab-main/Lab4/Output.sql)
 
 ## Lab 5
 
@@ -61,8 +61,8 @@ Create and insert values for the following tables department and instructor(with
 3.	Display the table
 4.	Apply commit, save point and rollback commands
 
-<b>SOLUTION</b> : [SQL FILE](./Application-Software-Lab/Lab5/Lab5.sql) <br>
-<b>WITH O/P</b> : [SQL FILE](./Application-Software-Lab/Lab5/output.sql) <br>
+<b>SOLUTION</b> : [SQL FILE](./Application-software-lab-main/Lab5/Lab5.sql) <br>
+<b>WITH O/P</b> : [SQL FILE](./Application-software-lab-main/Lab5/output.sql) <br>
 
 ## Lab 6
 
@@ -74,8 +74,8 @@ Create and insert values for the following tables department and instructor(with
 5. Write a query to check whether any changes made to present table is reflected in view.
 6. Write a query to delete a view
 
-<b>SOLUTION</b> : [SQL FILE](./Application-Software-Lab/Lab6/Lab6.sql) <br>
-<b>WITH O/P</b> : [SQL FILE](./Application-Software-Lab/Lab6/output.sql) <br>
+<b>SOLUTION</b> : [SQL FILE](./Application-software-lab-main/Lab6/Lab6.sql) <br>
+<b>WITH O/P</b> : [SQL FILE](./Application-software-lab-main/Lab6/output.sql) <br>
 
 ## Lab 7
 
@@ -87,8 +87,8 @@ Create and insert values for the following tables department and instructor(with
 5.	Write SQL query to display the amount in store and its square using power() function.
 6.	Write SQL query to divide the amount in stock of each item by 7 in store table and display the result round to the nearest integer using round() function.
 
-<b>SOLUTION</b> : [SQL FILE](./Application-Software-Lab/Lab7/Lab7.sql) <br>
-<b>WITH O/P</b> : [SQL FILE](./Application-Software-Lab/Lab7/output.sql) <br>
+<b>SOLUTION</b> : [SQL FILE](./Application-software-lab-main/Lab7/Lab7.sql) <br>
+<b>WITH O/P</b> : [SQL FILE](./Application-software-lab-main/Lab7/output.sql) <br>
 
 ## Lab 8
 
@@ -101,5 +101,5 @@ Create and insert values for the following tables department and instructor(with
 6. Describe the minimum salary value from the table
 7. Display the total number of employees.
 
-<b>SOLUTION</b> : [SQL FILE](./Application-Software-Lab/Lab8/Lab8.sql) <br>
-<b>WITH O/P</b> : [SQL FILE](./Application-Software-Lab/Lab8/Output.sql) <br>
+<b>SOLUTION</b> : [SQL FILE](./Application-software-lab-main/Lab8/Lab8.sql) <br>
+<b>WITH O/P</b> : [SQL FILE](./Application-software-lab-main/Lab8/Output.sql) <br>
